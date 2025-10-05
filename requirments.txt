@@ -10,4 +10,5 @@ supabase==2.3.4
 postgrest==0.13.2
 realtime==1.0.0
 storage3==0.7.4
-gotrue==2.3.
+gotrue==2.12.2
+
